@@ -38,10 +38,8 @@ Permite el acceso a la tienda, agregar productos al carrito y generar nuevas ór
 - **Correo:** `jeison@gmail.com`
 - **Contraseña:** `Shop1234`
 
-*(Nota: Estas son credenciales sugeridas para el entorno de pruebas, asegúrate de ajustarlas en caso de que en la base de datos tengas configurados otros usuarios de prueba).*
-
 ## 🔗 Enlace a la API utilizada
 
-Todo el backend y la persistencia de datos (productos, usuarios, órdenes, etc.) son provistos por la siguiente API alojada en Render:
+Todo el backend y la persistencia de datos (productos, usuarios, órdenes, etc.) son provistos por la siguiente API alojada en Render. RECUERDA ABRIR PRIMERO LA API PARA QUE PUEDAS VALIDAR EL FUNCIONAMIENTO DE LA APLICACIÓN.
 
 👉 **URL de la API:** [https://api-shop-k0ei.onrender.com]
